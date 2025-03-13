@@ -68,7 +68,7 @@ const Project: React.FC<ProjectProps> = ({
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: "Predictive Analytics Dashboard",
+      title: "Predictive Analytics Dashboard using python",
       description: "Built an interactive dashboard that visualizes sales trends and forecasts using machine learning algorithms.",
       tags: ["Python", "Scikit-learn", "Plotly", "Pandas"],
       imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop",
